@@ -66,7 +66,15 @@ git checkout <название ветви>
 
 ## Как создавать таблицы
 
-бла-бла, моя таблица
+В чистом Маркдауне нет синтаксиса для таблиц, а в GFM
+есть.
+
+Например:
+
+First Header | Second Header
+------------- | -------------
+Content Cell | Content Cell
+Content Cell | Content Cell
 
 ## Как добавлять картинки
 
